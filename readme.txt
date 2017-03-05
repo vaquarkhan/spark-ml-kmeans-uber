@@ -1,3 +1,9 @@
+
+https://www.javacodegeeks.com/2016/11/monitoring-real-time-uber-data-using-spark-machine-learning-streaming-kafka-api-part-1.html
+
+---------------------------------------------------------------------------------------------------------------------
+
+
 Install and fire up the Sandbox using the instructions here: http://maprdocs.mapr.com/home/SandboxHadoop/c_sandbox_overview.html. 
 
 Use an SSH client such as Putty (Windows) or Terminal (Mac) to login. See below for an example:
